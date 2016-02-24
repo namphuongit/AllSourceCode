@@ -1,0 +1,5 @@
+D:\PROJECTS\BDS\tinnhadat24h project\Tinnhadat24h\Tinnhadat24h.DataAccess\bin\Debug\Tinnhadat24h.DataAccess.dll
+D:\PROJECTS\BDS\tinnhadat24h project\Tinnhadat24h\Tinnhadat24h.DataAccess\bin\Debug\Tinnhadat24h.DataAccess.pdb
+D:\PROJECTS\BDS\tinnhadat24h project\Tinnhadat24h\Tinnhadat24h.DataAccess\obj\Debug\Tinnhadat24h.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJECTS\BDS\tinnhadat24h project\Tinnhadat24h\Tinnhadat24h.DataAccess\obj\Debug\Tinnhadat24h.DataAccess.dll
+D:\PROJECTS\BDS\tinnhadat24h project\Tinnhadat24h\Tinnhadat24h.DataAccess\obj\Debug\Tinnhadat24h.DataAccess.pdb
